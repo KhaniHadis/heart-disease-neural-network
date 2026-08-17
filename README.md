@@ -99,6 +99,7 @@ The dataset is relatively small, so the reported performance should not be inter
 The model has not been clinically validated and should not be used for medical diagnosis or treatment decisions.
 
 Project Structure
+```text
 heart-disease-neural-network/
 │
 ├── data/
@@ -109,7 +110,7 @@ heart-disease-neural-network/
 ├── src/
 ├── .gitignore
 └── README.md
-
+```
 How to Run
 
 Clone the repository and open the notebooks using Jupyter Notebook or VS Code.
