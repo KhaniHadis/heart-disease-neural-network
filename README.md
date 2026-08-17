@@ -32,8 +32,6 @@ The implementation includes:
 
 The neural network uses the following architecture:
 
-
-```text
 22 → 16 → 8 → 1
 Input layer: 22 features
 Hidden layer 1: 16 neurons with ReLU activation
